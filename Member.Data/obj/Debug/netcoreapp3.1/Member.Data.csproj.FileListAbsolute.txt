@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\bin\Debug\netcoreapp3.1\Member.Data.deps.json
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\bin\Debug\netcoreapp3.1\Member.Data.dll
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\bin\Debug\netcoreapp3.1\Member.Data.pdb
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.dll
+C:\Users\Administrator\source\repos\MyWebApp\Member.Data\obj\Debug\netcoreapp3.1\Member.Data.pdb
